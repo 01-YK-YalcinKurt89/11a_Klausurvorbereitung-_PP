@@ -1,6 +1,6 @@
 /* DATENSTRUKTUREN */
 
-/* Primitives */
+/* PRIMITIVES *///////
 
 // let a; // Definition oder Deklaration
 
@@ -12,7 +12,7 @@
 //   console.log(typeof a);
 //   console.log(a);
 
-/* Arrays */
+/* ARRAYS *///////
 // Navigation über INDEX
 
 // let arr;
@@ -25,7 +25,7 @@
 // console.log(arr[arr.length-1]);
 // console.log(arr[5]);
 
-/* Array -Info, nicht klausurrelevant*/
+/* Array -Info, nicht klausurrelevant*///////
 // let arr = [];
 // console.log(arr);
 // arr.push("a");
@@ -38,7 +38,7 @@
 // console.log(arr);
 
 
-/* Daten-Objekte */
+/* Daten-Objekte *///////
 // Navigation über Bezeichner (keys)
 
 // let obj = {x:"Hi", y:20};
@@ -59,9 +59,9 @@
 // console.log(obj.sub1.val2);
 // console.log(obj.sub1.val1);
 // console.log(obj.sub1);
-// {{{{}}}} nested object
+// {{{{}}}} NESTED OBJECT
 
-/*DOM*/
+/*DOM*///////
 // DOM  --> Modell der HTMl-Struktur
 // DOM --> Document Object Model
 // DOM --> nach dem Parsen / Laden der HTML-Seite  
@@ -78,7 +78,7 @@
 
  // https://github.com/01-PP-ComCave/03_Entscheidungsstrukturen
 
-/* FUNKTIONEN */
+/* FUNKTIONEN *///////
 
 // https://github.com/01-PP-ComCave/05_Funktionen
 // https://github.com/01-PP-ComCave/06_Funktionen_II.git
